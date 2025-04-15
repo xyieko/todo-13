@@ -1,0 +1,15 @@
+SPA
+ - single page application
+ - will never reload
+ - Dynamic
+
+JSX
+ - javascript xml
+ - rules
+    - you only have one root element
+
+
+Assignments
+ - Bootstraping - this not a css framework
+ - difference between default and named exports
+ - loading children on a component
